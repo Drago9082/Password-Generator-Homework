@@ -30,5 +30,5 @@ function randomSelected () {
 }
 
 function generatePassword () {
-  
+
 }
